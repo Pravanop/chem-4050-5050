@@ -1,0 +1,3 @@
+
+For the same initial and final volumes, the magnitude of the work done is **greater for the isothermal expansion** than for the adiabatic one. 
+It can be clearly seen tha thte area under the curve for the isothermal process is higher than adiabtic. This can also be understood by the fact that fror isothermal the gamma is 1, wile for adiabtic it is 1.4, resulting in the reduction of pressure needed.
